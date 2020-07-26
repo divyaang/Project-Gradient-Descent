@@ -2,9 +2,9 @@
 
 The basic work done in this project include:
 
-1. I have coded the Gradient Descent algorithm for N features and have come with predictions.
-2. I have tried and test various combinations of learning rates and number of iterations.
-3. I have used Feature Scaling better results. 
+1. Coded the Gradient Descent algorithm for N features and have come with predictions.
+2. Tried and test various combinations of learning rates and number of iterations.
+3. Used Feature Scaling better results.
 
 The above mentioned tasks have been implemented for two Datasets which are:
 
